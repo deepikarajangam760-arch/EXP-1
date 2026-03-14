@@ -44,11 +44,14 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+
+![Output](s11) 
  
 
 
 b.  KCL:
 
+![Output](s12) 
 
 
 Calculation:
