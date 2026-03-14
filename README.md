@@ -48,7 +48,8 @@ a.   KVL:
 
 
 b.  KCL:
- 
+
+
 
 Calculation:
 
@@ -57,7 +58,6 @@ a.   KVL:
 
 
 b.  KCL:
-
 
 
 
