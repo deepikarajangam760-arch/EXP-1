@@ -56,10 +56,14 @@ Calculation:
 
 a.   KVL:
 
-
+![Output](1p.png)
 
 
 b.  KCL:
+
+![Output](2p.png)
+
+![Output](3p.png)
 
 
 
@@ -67,10 +71,12 @@ Tabulation:
 
 a.   KVL:
  
+![Output](4p.png)
 
 
 b.  KCL:
 
+![Output](5p.png)
 
 
 RESULT:
